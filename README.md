@@ -16,7 +16,7 @@ This tool is designed for scraping various types of information from OK.RU, incl
 
 ## Installation
 
-1. Installez les dépendances :
+Installez les dépendances :
 
    ```bash
    pip install selenium
