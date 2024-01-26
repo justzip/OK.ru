@@ -16,16 +16,10 @@ This tool is designed for scraping various types of information from OK.RU, incl
 
 ## Installation
 
-1. Clone the repository:
-git clone [repository_url]
+1. Installez les dépendances :
 
-markdown
-Copy code
-2. Install the required packages:
-pip install -r requirements.txt
-
-bash
-Copy code
+   ```bash
+   pip install selenium
 
 ## Usage
 
