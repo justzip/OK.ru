@@ -20,6 +20,7 @@ This tool is designed for scraping various types of information from OK.RU, incl
 
    ```bash
    pip install selenium
+   ```
 
 ## Usage
 
@@ -27,6 +28,7 @@ Run the script from the command line, providing the necessary arguments:
 
    ```bash
    python OKru.py -n YOUR_PHONE_NUMBER -p YOUR_PASSWORD [-g GROUP_URL] [-f FRIENDS_URL] [-m MEMBER_GROUPS_URL]
+   ```
 
 
 ### Arguments
@@ -41,14 +43,7 @@ Run the script from the command line, providing the necessary arguments:
 
 This tool is for educational purposes only. Please use responsibly and in accordance with OK.RU's terms of service.
 
-## Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request with your suggestions.
-
-## License
-
-[Your preferred license]
 
 ## Author
 
-justzip - [your contact information or website]
+justzip
