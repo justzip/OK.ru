@@ -25,10 +25,9 @@ This tool is designed for scraping various types of information from OK.RU, incl
 
 Run the script from the command line, providing the necessary arguments:
 
-python OKru.py -n YOUR_PHONE_NUMBER -p YOUR_PASSWORD [-g GROUP_URL] [-f FRIENDS_URL] [-m MEMBER_GROUPS_URL]
+   ```bash
+   python OKru.py -n YOUR_PHONE_NUMBER -p YOUR_PASSWORD [-g GROUP_URL] [-f FRIENDS_URL] [-m MEMBER_GROUPS_URL]
 
-markdown
-Copy code
 
 ### Arguments
 
