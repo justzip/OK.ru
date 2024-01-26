@@ -1,4 +1,11 @@
-![Logo-Without_background-OK RU](https://github.com/justzip/OK.ru/assets/146394163/ee33f746-45a4-444d-ab3a-9583d35471f6)
+<div id="top" align="center">
+
+<!-- Logo -->
+<a href="https://github.com/justzip/OK.ru">
+  <img src="https://github.com/justzip/OK.ru/blob/main/OK.ru.png?raw=true" alt="OK.RU Logo" width="auto" height="auto">
+</a>
+
+</div>
 
 # OK.ru Scraping Tool
 This tool is designed for scraping various types of information from OK.RU, including group members, friends lists, and member group affiliations. It utilizes Selenium for web scraping and requires valid OK.RU credentials for login.
